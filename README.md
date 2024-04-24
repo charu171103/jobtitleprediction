@@ -8,9 +8,13 @@ This project aims to predict job titles based on job descriptions using a Recurr
 The dataset contains various attributes related to job postings. The attributes used for this project are:
 
 Job Title: The title of the job position.
+
 Company Name: The name of the company offering the job.
+
 Industry: The industry or sector to which the company belongs.
+
 Job Description: A detailed description of the job responsibilities, requirements, and qualifications.
+
 Before using the dataset, it's essential to preprocess it, handle missing values, and select relevant columns.
 
 
