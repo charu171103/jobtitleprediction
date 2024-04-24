@@ -1,6 +1,6 @@
-*Job Title Prediction using Recurrent Neural Networks (RNN)*
+**Job Title Prediction using Recurrent Neural Networks (RNN)**
 
-#Introduction
+#Introduction:
 This project aims to predict job titles based on job descriptions using a Recurrent Neural Network (RNN). The dataset used for training and testing the model is the "Data Science Job Postings on Glassdoor" dataset obtained from Kaggle.
 
 
