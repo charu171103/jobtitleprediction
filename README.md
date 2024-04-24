@@ -19,6 +19,7 @@ Ensure you have Python installed on your system along with necessary libraries s
 Download the "Data Science Job Postings on Glassdoor" dataset from Kaggle and specify the file path in the code.
 Install the required dependencies by running:
 >> pip install pandas matplotlib seaborn tensorflow scikit-learn
+
 Run the provided code in your Python environment. Make sure to adjust file paths if necessary.
 
 
