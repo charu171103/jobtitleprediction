@@ -81,4 +81,3 @@ The RNN model architecture consists of an embedding layer, LSTM layer, and dense
 
 This project demonstrates how to use RNNs for job title prediction based on job descriptions. The model's accuracy and performance can be further improved by 
 experimenting with different architectures, hyperparameters, and preprocessing techniques.
-
