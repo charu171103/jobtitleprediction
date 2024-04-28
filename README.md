@@ -1,16 +1,20 @@
 **Job Title Prediction using Recurrent Neural Networks (RNN)**
 
 
+
+
 #*Introduction:*
 
 This project aims to predict job titles based on job descriptions using a Recurrent Neural Network (RNN). The dataset used for training and testing the model is the "Data Science Job Postings on Glassdoor" dataset obtained from Kaggle.
 
 
 
+
 #*Dataset:*
 The dataset contains various attributes related to job postings. The attributes used for this project are:
 
-Job Description: A detailed description of the job responsibilities, requirements, and qualifications.
+->Job Description: A detailed description of the job responsibilities, requirements, and qualifications.
+
 -> Job Title: The title of the job position.
 
 -> Company Name: The name of the company offering the job.
@@ -20,6 +24,7 @@ Job Description: A detailed description of the job responsibilities, requirement
 -> Job Description: A detailed description of the job responsibilities, requirements, and qualifications.
 
 Before using the dataset, it's essential to preprocess it, handle missing values, and select relevant columns.
+
 
 
 
@@ -37,6 +42,7 @@ Run the provided code in your Python environment. Make sure to adjust file paths
 
 
 
+
 #*Preprocessing:*
 
 ~ Select relevant columns such as 'Job Title', 'Company Name', 'Industry', and 'Job Description'.
@@ -47,9 +53,11 @@ Run the provided code in your Python environment. Make sure to adjust file paths
 
 
 
+
 #*Model Architecture:*
 
 The RNN model architecture consists of an embedding layer, LSTM layer, and dense output layer. It's designed to predict job titles based on input job descriptions.
+
 
 
 
@@ -65,6 +73,7 @@ The RNN model architecture consists of an embedding layer, LSTM layer, and dense
 
 
 
+
 #*Prediction:*
 
 ~ Provide a new job description for prediction.
@@ -74,6 +83,7 @@ The RNN model architecture consists of an embedding layer, LSTM layer, and dense
 ~ Use the trained model to predict the job title based on the provided description.
 
 ~ Display the predicted job title.
+
 
 
 
